@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="library" method="upgrade" version="1.0.0.9">
+<name>fastcache</name>
+<libraryname>joomla/cache/storage</libraryname>
+<author>Wayne DSouza</author>
+<creationDate>Feb 2015</creationDate>
+<copyright>Copyright (C)Wayne DSouza OnlineMarketingConsultants.in 2015</copyright>
+<license>ProprietaryGNU GENERAL PUBLIC LICENSE  see license.txt</license>
+<authorEmail>wayne.dsouza@onlinemarketingconsultants.in</authorEmail>
+<authorUrl>http://OnlineMarketingConsultants.in</authorUrl>
+<version>1.2</version>
+<description>
+The Multicache Cache library - fastcache
+</description>
+ <files>
+<filename>fastcache.php</filename>
+ </files>
+
+<languages>
+	<language tag="en-GB">en-GB.lib_fastcache.ini</language>
+	<language tag="en-GB">en-GB.lib_fastcache.sys.ini</language>
+</languages>
+</extension>
